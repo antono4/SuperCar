@@ -1,1 +1,26 @@
-Last updated: 2026-10-25 19:05:53 WIB
+# SuperCar
+
+
+
+## 📋 Overview
+
+This repository contains **7 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-25 19:08:17 WIB*
